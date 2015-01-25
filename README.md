@@ -1,6 +1,6 @@
 # Getting and Cleaning Data
 Getting and Cleaning Data Project
-/********************************/
+
 
 This is a repository for project of Getting and Cleaning Data Coursera course. 
     Johns Hopkins University.
